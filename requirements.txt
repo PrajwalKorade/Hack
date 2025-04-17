@@ -12,3 +12,4 @@ faiss-cpu  # or faiss-gpu if using CUDA
 javalang
 numpy 
 pandas
+sklearn
