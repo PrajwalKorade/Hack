@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+anthropic
+openai
+pymongo
+pyjwt
+markdown
+github
+python-jose
+sentence-transformers
+faiss-cpu  # or faiss-gpu if using CUDA
+javalang
+numpy 
